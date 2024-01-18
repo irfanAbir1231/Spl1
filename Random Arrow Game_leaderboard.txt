@@ -1,0 +1,11 @@
+Random Arrow Game,easy,abid,7
+Random Arrow Game,medium,Abid,5
+Random Arrow Game,easy,Abid,5
+Random Arrow Game,easy,abid,5
+Random Arrow Game,medium,Abid,3
+Random Arrow Game,hard,abid,2
+Random Arrow Game,easy,abid,1
+Random Arrow Game,easy,abid,0
+Random Arrow Game,easy,1,0
+Random Arrow Game,easy,1,0
+Random Arrow Game,medium,1,0

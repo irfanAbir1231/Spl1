@@ -1,0 +1,12 @@
+CharSequenceGuessingGame,hard,abid,0
+CharSequenceGuessingGame,hard,abid,0
+CharSequenceGuessingGame,hard,abid,0
+CharSequenceGuessingGame,easy,abid,0
+CharSequenceGuessingGame,medium,abid,0
+CharSequenceGuessingGame,easy,abid,0
+CharSequenceGuessingGame,easy,abid,0
+CharSequenceGuessingGame,easy,abid,0
+CharSequenceGuessingGame,easy,abid,0
+CharSequenceGuessingGame,easy,1,0
+CharSequenceGuessingGame,easy,1,0
+CharSequenceGuessingGame,easy,abid,0

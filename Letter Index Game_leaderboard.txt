@@ -1,0 +1,6 @@
+Letter Index Game,easy,abid,2
+Letter Index Game,easy,abid,1
+Letter Index Game,easy,abid,1
+Letter Index Game,easy,abid,0
+Letter Index Game,medium,abid,0
+Letter Index Game,easy,abid,0

@@ -1,0 +1,15 @@
+Random Word Game,easy,Abid,7
+Random Word Game,easy,Abid,0
+Random Word Game,easy,Abid,0
+Random Word Game,medium,Abid,0
+Random Word Game,easy,Abid,0
+Random Word Game,easy,Abid,0
+Random Word Game,easy,Abid,0
+Random Word Game,easy,Abid,0
+Random Word Game,easy,abid,0
+Random Word Game,easy,abid,0
+Random Word Game,hard,abid,0
+Random Word Game,easy,1,0
+Random Word Game,medium,1,0
+Random Word Game,easy,1,0
+Random Word Game,easy,1,0
